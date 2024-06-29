@@ -6,7 +6,7 @@
 <br/>
 
 <details open> 
-  <summary><h2>📘 My Biggest Project</h2></summary>
+  <summary><h2>📘 Most Recent Project</h2></summary>
 
   <p align="left">
   <a href="https://github.com/jacpul/ClearSpike"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=jacpul&repo=ClearSpike&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=true" alt="flask">
